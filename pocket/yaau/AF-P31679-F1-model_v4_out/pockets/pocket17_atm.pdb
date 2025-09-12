@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0027
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1526
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6180
+HEADER 5  - Mean B-factor of pocket residues  : 0.9622
+HEADER 6  - Hydrophobicity Score              : 64.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 6.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 338.4489
+HEADER 10 - Pocket volume (convex hull)       : 12.8252
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1344  CH2 TRP A 174      12.620 -17.969  -6.317  0.00  0.00           C 0
+ATOM    769   CE MET A 101       8.762 -16.864  -7.800  0.00  0.00           C 0
+ATOM   1345  CZ2 TRP A 174      13.325 -17.410  -7.397  0.00  0.00           C 0
+ATOM    778  CE1 PHE A 102       6.925 -21.807 -11.509  0.00  0.00           C 0
+ATOM    780   CZ PHE A 102       6.287 -21.607 -10.272  0.00  0.00           C 0
+ATOM    776  CD1 PHE A 102       6.376 -21.255 -12.680  0.00  0.00           C 0
+ATOM   1328   CD ARG A 173      10.019 -15.402 -13.614  0.00  0.00           C 0
+ATOM    766    O MET A 101       7.253 -16.756 -13.236  0.55  2.14           O 0
+ATOM   1343  NE1 TRP A 174      13.715 -15.209  -8.631  0.81  2.19           N 0
+ATOM   1341  CE2 TRP A 174      13.177 -16.044  -7.673  0.00  0.00           C 0
+ATOM   1325   CB ARG A 173       9.618 -14.008 -11.550  0.00  0.00           C 0
+ATOM   1329   NE ARG A 173       9.513 -15.651 -14.974  0.00  0.00           N 0
+ATOM    765   CB MET A 101       6.500 -16.739 -10.182  0.00  0.00           C 0
+ATOM    771   CA PHE A 102       5.320 -18.558 -14.231  0.00  0.00           C 0
+ATOM   1331  NH2 ARG A 173       9.500 -15.649 -17.244  0.00  0.00           N 0
+ATOM    774    O PHE A 102       4.860 -18.659 -16.586  0.00  0.00           O 0
+TER
+END

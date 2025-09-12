@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0203
+HEADER 1  - Drug Score                        : 0.1537
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9201
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5931
+HEADER 5  - Mean B-factor of pocket residues  : 0.9704
+HEADER 6  - Hydrophobicity Score              : 66.1818
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 423.1152
+HEADER 10 - Pocket volume (convex hull)       : 47.8118
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 23.2414
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.9355
+ATOM   1263  CD2 LEU A 165      14.325 -10.117  -4.497  0.00  0.00           C 0
+ATOM   1261   CG LEU A 165      13.413  -8.892  -4.611  0.00  0.00           C 0
+ATOM   1224  CG1 VAL A 161      10.214  -7.454  -2.129  0.00  0.00           C 0
+ATOM   1251  CE3 TRP A 164      14.252  -5.417   1.366  0.00  0.00           C 0
+ATOM   1245   CB TRP A 164      15.813  -5.590  -1.618  0.00  0.00           C 0
+ATOM   1342  CE3 TRP A 174      11.637 -15.789  -5.817  0.00  0.00           C 0
+ATOM   1340  CD2 TRP A 174      12.334 -15.197  -6.893  0.00  0.00           C 0
+ATOM   1336   CB TRP A 174      11.686 -12.628  -6.966  0.00  0.00           C 0
+ATOM   1367    N SER A 178       6.457 -12.194  -4.384  0.00  0.00           N 0
+ATOM   1337    O TRP A 174       8.855 -11.590  -5.698  0.70  1.07           O 0
+ATOM   1365    C GLY A 177       5.678 -13.203  -4.791  0.00  0.00           C 0
+ATOM   1262  CD1 LEU A 165      11.971  -9.388  -4.722  0.00  0.00           C 0
+ATOM   1370   CB SER A 178       7.857 -10.858  -2.811  0.00  0.00           C 0
+ATOM   1390  CD1 ILE A 181       8.920 -13.650   0.826  0.00  0.00           C 0
+ATOM   1346  CZ3 TRP A 174      11.779 -17.161  -5.531  0.00  0.00           C 0
+ATOM   1366    O GLY A 177       5.084 -13.920  -3.983  0.00  0.00           O 0
+ATOM   1388  CG1 ILE A 181       7.539 -14.272   1.071  0.00  0.00           C 0
+ATOM   1368   CA SER A 178       6.823 -11.974  -2.978  0.00  0.00           C 0
+ATOM   1223    O VAL A 161      12.583  -5.776  -3.548  0.00  0.00           O 0
+ATOM   1289  CG1 VAL A 168      16.964 -12.031  -8.348  0.00  0.00           C 0
+ATOM   1339  CD1 TRP A 174      13.251 -13.917  -8.496  0.00  0.00           C 0
+ATOM   1343  NE1 TRP A 174      13.715 -15.209  -8.631  0.81  2.19           N 0
+ATOM   1338   CG TRP A 174      12.409 -13.847  -7.439  0.00  0.00           C 0
+ATOM   1341  CE2 TRP A 174      13.177 -16.044  -7.673  0.00  0.00           C 0
+ATOM    768   SD MET A 101       6.995 -16.802  -7.392  0.00  0.00           S 0
+ATOM    769   CE MET A 101       8.762 -16.864  -7.800  0.00  0.00           C 0
+ATOM   1381   CB ALA A 180       3.524 -15.861  -1.844  0.00  0.00           C 0
+ATOM    749  CG2 VAL A  98       3.193 -18.287  -4.669  0.00  0.00           C 0
+TER
+END

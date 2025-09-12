@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0502
+HEADER 1  - Drug Score                        : 0.0160
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9048
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5947
+HEADER 5  - Mean B-factor of pocket residues  : 0.9555
+HEADER 6  - Hydrophobicity Score              : 69.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.1110
+HEADER 10 - Pocket volume (convex hull)       : 5.1934
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.9412
+ATOM   1482    N ALA A 196       3.241 -12.597  10.071  0.00  0.00           N 0
+ATOM   1458    O LEU A 192       5.209 -12.175   7.951  0.69  1.07           O 0
+ATOM   1485   CB ALA A 196       5.234 -13.355  11.234  0.00  0.00           C 0
+ATOM   1460  CD1 LEU A 192       5.822 -14.930   5.472  0.00  0.00           C 0
+ATOM   1513  CZ3 TRP A 199       3.151 -19.101  12.921  0.00  0.00           C 0
+ATOM   1509  CE3 TRP A 199       2.404 -17.917  12.763  0.00  0.00           C 0
+ATOM    686  CG2 ILE A  92      -2.532 -16.020   7.704  0.00  0.00           C 0
+ATOM   1507  CD2 TRP A 199       1.004 -17.915  12.941  0.00  0.00           C 0
+ATOM   1480  CG2 THR A 195       0.914 -13.950   7.326  0.00  0.00           C 0
+ATOM   1503   CB TRP A 199       0.102 -15.460  12.444  0.00  0.00           C 0
+ATOM   1505   CG TRP A 199      -0.042 -16.904  12.814  0.00  0.00           C 0
+ATOM   1506  CD1 TRP A 199      -1.208 -17.551  13.047  0.00  0.00           C 0
+ATOM   1483   CA ALA A 196       3.707 -13.238  11.298  0.00  0.00           C 0
+ATOM   1510  NE1 TRP A 199      -0.956 -18.876  13.344  0.00  0.00           N 0
+ATOM   1479    O THR A 195       1.064 -12.919  10.486  0.00  0.00           O 0
+ATOM   1508  CE2 TRP A 199       0.390 -19.157  13.285  0.00  0.00           C 0
+TER
+END

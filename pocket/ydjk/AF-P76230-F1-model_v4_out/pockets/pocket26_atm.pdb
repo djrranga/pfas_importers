@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0377
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7620
+HEADER 5  - Mean B-factor of pocket residues  : 0.9485
+HEADER 6  - Hydrophobicity Score              : 21.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.6328
+HEADER 10 - Pocket volume (convex hull)       : 2.0274
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2539    O THR A 330     -14.777  23.344  -4.004  0.55  2.14           O 0
+ATOM   2562   CA GLY A 334     -12.167  23.431  -6.388  0.00  0.00           C 0
+ATOM   2559  CG1 VAL A 333     -16.142  23.340  -8.829  0.00  0.00           C 0
+ATOM   2540  CG2 THR A 330     -16.086  26.080  -2.586  0.00  0.00           C 0
+ATOM   3329   CA ALA A 437     -21.749  21.522  -9.157  0.00  0.00           C 0
+ATOM   2533   CE LYS A 329     -23.282  21.435  -5.280  0.00  0.00           C 0
+ATOM   3331   CB ALA A 437     -21.074  22.442 -10.181  0.00  0.00           C 0
+ATOM   3332    O ALA A 437     -24.030  22.045  -8.597  0.00  0.00           O 0
+ATOM   2561    N GLY A 334     -13.430  22.702  -6.482  0.00  0.00           N 0
+ATOM   2535    N THR A 330     -18.045  22.802  -2.888  0.00  0.00           N 0
+ATOM   2528    C LYS A 329     -18.287  21.723  -3.632  0.00  0.00           C 0
+ATOM   2560  CG2 VAL A 333     -17.653  21.623  -7.895  0.00  0.00           C 0
+ATOM   2530    O LYS A 329     -17.603  21.412  -4.604  0.00  0.00           O 0
+ATOM   2536   CA THR A 330     -16.973  23.764  -3.176  0.00  0.00           C 0
+ATOM   2557   CB VAL A 333     -16.323  22.352  -7.671  0.00  0.00           C 0
+ATOM   2541  OG1 THR A 330     -18.316  25.458  -2.126  0.00  0.00           O 0
+ATOM   2529   CB LYS A 329     -20.779  21.479  -3.500  0.00  0.00           C 0
+TER
+END

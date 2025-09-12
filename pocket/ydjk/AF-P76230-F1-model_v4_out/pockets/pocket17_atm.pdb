@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0137
+HEADER 1  - Drug Score                        : 0.0050
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6046
+HEADER 5  - Mean B-factor of pocket residues  : 0.9049
+HEADER 6  - Hydrophobicity Score              : 61.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.5345
+HEADER 10 - Pocket volume (convex hull)       : 6.9469
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   1529    O TYR A 201      -2.893  -9.738  18.575  0.56  8.57           O 0
+ATOM    167  CD1 TRP A  21      -5.466  -5.814  22.879  0.00  0.00           C 0
+ATOM   1531  CD1 TYR A 201       1.590 -10.589  20.074  0.00  0.00           C 0
+ATOM    196   OG SER A  24      -0.379  -3.209  21.040  0.00  0.00           O 0
+ATOM    194   CB SER A  24      -1.240  -3.555  19.972  0.00  0.00           C 0
+ATOM   1532  CD2 TYR A 201       2.605 -10.034  17.926  0.00  0.00           C 0
+ATOM   1530   CG TYR A 201       1.465 -10.139  18.745  0.00  0.00           C 0
+ATOM    192   CA SER A  24      -1.299  -2.441  18.923  0.00  0.00           C 0
+ATOM    219   CB ALA A  27       1.097  -0.881  15.689  0.00  0.00           C 0
+ATOM    228  CD1 ILE A  28      -0.879  -6.845  15.849  0.00  0.00           C 0
+ATOM    171  NE1 TRP A  21      -6.221  -6.584  22.017  0.78  8.75           N 0
+ATOM    204   CE MET A  25      -4.060  -6.335  18.356  0.00  0.00           C 0
+ATOM   1528   CB TYR A 201       0.104  -9.759  18.202  0.00  0.00           C 0
+ATOM    195    O SER A  24      -1.447  -3.297  16.702  0.67  1.07           O 0
+ATOM    226  CG1 ILE A  28      -0.177  -5.855  14.911  0.00  0.00           C 0
+TER
+END

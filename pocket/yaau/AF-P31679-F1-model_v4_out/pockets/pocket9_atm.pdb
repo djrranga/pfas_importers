@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0525
+HEADER 1  - Drug Score                        : 0.0165
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9438
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6388
+HEADER 5  - Mean B-factor of pocket residues  : 0.9816
+HEADER 6  - Hydrophobicity Score              : 59.3750
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.8427
+HEADER 10 - Pocket volume (convex hull)       : 10.5238
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   2000   CB THR A 253     -11.677  10.917  -8.725  0.00  0.00           C 0
+ATOM   2002  CG2 THR A 253     -11.178  10.694 -10.147  0.00  0.00           C 0
+ATOM   2003  OG1 THR A 253     -12.773  10.058  -8.558  0.69  6.43           O 0
+ATOM   1971   CA ALA A 250     -14.524  13.676  -6.831  0.00  0.00           C 0
+ATOM   3192  CD1 PHE A 412     -12.116  18.078 -10.576  0.00  0.00           C 0
+ATOM   2009   SG CYS A 254     -10.269  15.771  -8.436  0.00  0.00           S 0
+ATOM   2033  CD1 ILE A 257      -8.240  10.897 -12.045  0.00  0.00           C 0
+ATOM   1974    O ALA A 250     -12.152  13.811  -6.630  0.65  1.07           O 0
+ATOM   3194  CE1 PHE A 412     -13.470  17.762 -10.772  0.00  0.00           C 0
+ATOM   3170  CG2 ILE A 409      -6.769  15.001 -10.621  0.00  0.00           C 0
+ATOM   3169  CG1 ILE A 409      -6.252  15.662 -13.008  0.00  0.00           C 0
+ATOM   3165   CA ILE A 409      -6.493  17.458 -11.239  0.00  0.00           C 0
+ATOM   3191   CG PHE A 412     -11.663  19.397 -10.750  0.00  0.00           C 0
+ATOM   3189   CB PHE A 412     -10.202  19.734 -10.545  0.00  0.00           C 0
+ATOM   3163    O GLY A 408      -6.861  20.221 -11.532  0.52  4.29           O 0
+ATOM   3164    N ILE A 409      -5.610  18.406 -11.938  0.00  0.00           N 0
+ATOM   3162    C GLY A 408      -5.854  19.717 -12.026  0.00  0.00           C 0
+ATOM   3149   SD MET A 405      -4.769  17.035 -17.428  0.00  0.00           S 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0952
+HEADER 1  - Drug Score                        : 0.0170
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9230
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5060
+HEADER 5  - Mean B-factor of pocket residues  : 0.8394
+HEADER 6  - Hydrophobicity Score              : 59.5714
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.8208
+HEADER 10 - Pocket volume (convex hull)       : 15.8714
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0526
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7917
+ATOM   2169  CD2 LEU A 275      16.111  12.349  -7.113  0.00  0.00           C 0
+ATOM   2198    O ASN A 280      16.751   6.158  -7.463  0.35  1.07           O 0
+ATOM   2219  CD2 LEU A 283      19.020   5.341  -3.042  0.00  0.00           C 0
+ATOM   2220    N GLY A 284      14.753   6.516  -5.342  0.62  1.09           N 0
+ATOM   2166    O LEU A 275      17.993   9.495  -9.471  0.00  0.00           O 0
+ATOM   2245  CG2 VAL A 287      14.426   8.188  -0.623  0.00  0.00           C 0
+ATOM   2633  CG2 VAL A 338      14.901  14.253  -4.526  0.00  0.00           C 0
+ATOM   2242   CB VAL A 287      13.069   8.814  -0.974  0.00  0.00           C 0
+ATOM   2244  CG1 VAL A 287      13.002  10.173  -0.263  0.00  0.00           C 0
+ATOM   2197   CB ASN A 280      19.660   5.906  -9.003  0.00  0.00           C 0
+ATOM   2199   CG ASN A 280      21.093   5.576  -8.624  0.00  0.00           C 0
+ATOM   2201  OD1 ASN A 280      21.383   4.876  -7.670  0.35  7.50           O 0
+ATOM   2217   CG LEU A 283      17.507   5.121  -3.021  0.00  0.00           C 0
+ATOM   2223    O GLY A 284      11.892   8.141  -4.208  0.51  1.07           O 0
+ATOM   2251  CG1 ILE A 288       9.374  10.357  -4.250  0.00  0.00           C 0
+ATOM   2168  CD1 LEU A 275      13.777  12.399  -7.857  0.00  0.00           C 0
+ATOM   2632  CG1 VAL A 338      13.890  14.456  -2.296  0.00  0.00           C 0
+ATOM   2221   CA GLY A 284      13.968   7.749  -5.328  0.00  0.00           C 0
+ATOM   2628   CA VAL A 338      12.738  15.518  -4.327  0.00  0.00           C 0
+TER
+END

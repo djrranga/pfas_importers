@@ -15,5 +15,5 @@ First, I tried to identify likely *E. coli* transporters for a single PFAS, name
     - For most of the sequences, the most similar MFS transporter was [MFS_SV2_like](https://www.uniprot.org/uniprotkb/Q7L1I2/entry), which is a secretion regulator and neurotoxin receptor. 
 5. Next steps: use ESM to compare raw and "annotated" *E. coli* protein sequences against the known PFOS transporters to identify the best candidate/most likely importer for our purposes.
 
-All of this is just for a single PFAS (PFOS), so need to automate the process for any arbitrary PFAS.
+
 
