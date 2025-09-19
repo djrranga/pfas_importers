@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0711
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8457
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4582
+HEADER 5  - Mean B-factor of pocket residues  : 0.4711
+HEADER 6  - Hydrophobicity Score              : 24.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.4647
+HEADER 10 - Pocket volume (convex hull)       : 6.8372
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   3304   CE MET A 427     -21.139  20.670  11.800  0.00  0.00           C 0
+ATOM   3408   NE ARG A 441     -28.081  22.368  12.935  0.38  5.47           N 0
+ATOM   3391    O GLY A 439     -25.632  24.294   7.166  0.00  0.00           O 0
+ATOM   3406   CG ARG A 441     -28.896  22.295  10.580  0.00  0.00           C 0
+ATOM   3361   CE MET A 435     -22.009  20.683   6.724  0.00  0.00           C 0
+ATOM   3360   SD MET A 435     -22.682  19.127   7.359  0.00  0.00           S 0
+ATOM   3330   CD GLN A 431     -24.795  17.724  16.454  0.00  0.00           C 0
+ATOM   3332  OE1 GLN A 431     -23.613  17.465  16.340  0.54  1.07           O 0
+ATOM   3410  NH2 ARG A 441     -26.961  22.325  14.921  0.00  0.00           N 0
+ATOM   3331  NE2 GLN A 431     -25.165  18.526  17.426  0.23  7.66           N 0
+ATOM   3359   CG MET A 435     -24.398  19.263   6.802  0.00  0.00           C 0
+ATOM   3302   CG MET A 427     -20.972  18.438  13.416  0.00  0.00           C 0
+ATOM   3357   CB MET A 435     -25.281  18.114   7.282  0.00  0.00           C 0
+ATOM   3355   CA MET A 435     -26.760  18.299   6.911  0.00  0.00           C 0
+ATOM   3328    O GLN A 431     -26.403  16.756  10.994  0.57  5.36           O 0
+ATOM   3303   SD MET A 427     -21.677  18.941  11.826  0.00  0.00           S 0
+ATOM   3327   CB GLN A 431     -25.284  16.801  14.147  0.00  0.00           C 0
+TER
+END

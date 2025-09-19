@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.1234
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.2086
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5055
+HEADER 5  - Mean B-factor of pocket residues  : 0.7168
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.8312
+HEADER 10 - Pocket volume (convex hull)       : 24.8908
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2152    C LEU A 273      14.381  14.332 -13.285  0.00  0.00           C 0
+ATOM   2576  OD1 ASP A 331      16.527  21.131 -18.297  0.00  0.00           O 0
+ATOM   2154    O LEU A 273      14.710  15.269 -12.561  0.28  3.21           O 0
+ATOM   2159   CA GLY A 274      16.704  13.523 -13.454  0.00  0.00           C 0
+ATOM   2146    O LEU A 272      12.962  13.757 -16.564  0.00  0.00           O 0
+ATOM   2158    N GLY A 274      15.262  13.407 -13.680  0.00  0.00           N 0
+ATOM   2571   CA ASP A 331      15.828  21.854 -15.630  0.00  0.00           C 0
+ATOM   2582    O MET A 332      16.617  19.825 -11.639  0.19  8.57           O 0
+ATOM   2578    N MET A 332      15.062  21.587 -13.325  0.00  0.00           N 0
+ATOM   2572    C ASP A 331      16.037  22.043 -14.115  0.00  0.00           C 0
+ATOM   2574    O ASP A 331      17.036  22.594 -13.645  0.00  0.00           O 0
+ATOM   2570    N ASP A 331      14.442  22.061 -16.096  0.00  0.00           N 0
+ATOM   2585   CE MET A 332      10.926  19.775 -12.325  0.00  0.00           C 0
+ATOM   2157  CD2 LEU A 273      10.309  16.069 -13.695  0.00  0.00           C 0
+ATOM   2151   CA LEU A 273      12.926  14.211 -13.773  0.00  0.00           C 0
+ATOM   3111   OG SER A 400       8.612  19.428 -17.962  0.64  7.50           O 0
+ATOM   2566   CB PRO A 330      12.455  23.875 -17.928  0.00  0.00           C 0
+ATOM   2564   CA PRO A 330      12.334  23.246 -16.539  0.00  0.00           C 0
+ATOM   3104  CG2 ILE A 399       9.330  15.165 -17.613  0.00  0.00           C 0
+ATOM   2559    O ILE A 329      10.900  22.590 -14.259  0.29  2.14           O 0
+TER
+END

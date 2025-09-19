@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0209
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9712
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6971
+HEADER 5  - Mean B-factor of pocket residues  : 0.8137
+HEADER 6  - Hydrophobicity Score              : 1.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.6826
+HEADER 10 - Pocket volume (convex hull)       : 2.1865
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1606   CE LYS A 207     -29.130 -22.497  22.845  0.00  0.00           C 0
+ATOM   1605   CD LYS A 207     -27.768 -22.329  22.170  0.00  0.00           C 0
+ATOM   1580    O GLY A 204     -29.394 -18.203  16.022  0.00  0.00           O 0
+ATOM   1604   CG LYS A 207     -27.443 -20.839  22.015  0.00  0.00           C 0
+ATOM   1602   CB LYS A 207     -26.045 -20.679  21.407  0.00  0.00           C 0
+ATOM   1599    N LYS A 207     -26.396 -18.435  20.417  0.47  1.09           N 0
+ATOM   1582   CA ARG A 205     -26.573 -18.187  15.767  0.00  0.00           C 0
+ATOM   1611   CB GLU A 208     -22.325 -19.678  17.863  0.00  0.00           C 0
+ATOM   1584   CB ARG A 205     -25.337 -18.464  14.885  0.00  0.00           C 0
+ATOM   1616  OE2 GLU A 208     -22.079 -20.745  15.441  0.00  0.00           O 0
+ATOM   1608    N GLU A 208     -23.751 -19.313  19.767  0.00  0.00           N 0
+ATOM   1586   CG ARG A 205     -25.662 -19.294  13.632  0.00  0.00           C 0
+ATOM   1592    N VAL A 206     -27.235 -17.222  17.914  0.50  1.09           N 0
+ATOM   1595   CB VAL A 206     -28.474 -16.120  19.780  0.00  0.00           C 0
+ATOM   1583    C ARG A 205     -26.218 -17.520  17.103  0.00  0.00           C 0
+TER
+END

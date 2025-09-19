@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0739
+HEADER 1  - Drug Score                        : 0.0414
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6699
+HEADER 5  - Mean B-factor of pocket residues  : 0.9202
+HEADER 6  - Hydrophobicity Score              : 83.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 326.8852
+HEADER 10 - Pocket volume (convex hull)       : 13.5846
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.4762
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   2669  CG2 VAL A 343       6.880  19.849   0.171  0.00  0.00           C 0
+ATOM   2660    C ALA A 342       6.848  15.611  -0.170  0.00  0.00           C 0
+ATOM   2661   CB ALA A 342       9.344  15.187  -0.049  0.00  0.00           C 0
+ATOM   2276  CE1 PHE A 291       9.607  13.843   3.602  0.00  0.00           C 0
+ATOM   2639   CG MET A 339      11.398  20.404  -0.699  0.00  0.00           C 0
+ATOM   2638    O MET A 339       8.884  18.271  -1.869  0.00  0.00           O 0
+ATOM   2278   CZ PHE A 291      10.841  13.525   3.007  0.00  0.00           C 0
+ATOM   2663    N VAL A 343       6.701  16.878  -0.577  0.00  0.00           N 0
+ATOM   2693  CD1 PHE A 346       3.256  16.347   5.074  0.00  0.00           C 0
+ATOM   2707  CE2 PHE A 347       2.634  19.939   3.315  0.00  0.00           C 0
+ATOM   2664   CA VAL A 343       5.562  17.726  -0.200  0.00  0.00           C 0
+ATOM   2662    O ALA A 342       6.038  15.072   0.583  0.70  1.07           O 0
+ATOM   2635   CA MET A 339      11.253  18.326  -2.185  0.00  0.00           C 0
+ATOM   2632  CG1 VAL A 338      13.890  14.456  -2.296  0.00  0.00           C 0
+ATOM   2637   CB MET A 339      11.940  19.677  -1.936  0.00  0.00           C 0
+ATOM   2607  CE3 TRP A 335      18.431  17.324  -1.659  0.00  0.00           C 0
+ATOM   2602    O TRP A 335      14.541  19.023  -3.771  0.68  3.21           O 0
+ATOM   2690   CB PHE A 346       4.227  14.972   3.180  0.00  0.00           C 0
+ATOM   2274  CD1 PHE A 291       8.428  13.223   3.151  0.00  0.00           C 0
+ATOM   2692   CG PHE A 346       4.031  15.249   4.654  0.00  0.00           C 0
+ATOM   2634    N MET A 339      12.054  17.543  -3.123  0.00  0.00           N 0
+TER
+END
